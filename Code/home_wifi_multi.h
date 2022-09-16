@@ -1,2 +1,2 @@
-#define SSID1 "OnePlus 7 Pro" 
-#define PWD1 "OP7OxygenOS"
+#define SSID1 "AP_name" 
+#define PWD1 "Password"
